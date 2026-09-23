@@ -1,1 +1,1 @@
-pytest>=7.0
+style-profile @ https://github.com/Millstone123/style-profiles-data/releases/download/v1.0/style_profile-0.1.0-py3-none-any.whl

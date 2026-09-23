@@ -1,3 +1,3 @@
 bootstrap:
-	python3 -c "import style_lint_profile; style_lint_profile.sync()"
+	pip install -r requirements.txt
 	python3 -m pytest test_style.py
